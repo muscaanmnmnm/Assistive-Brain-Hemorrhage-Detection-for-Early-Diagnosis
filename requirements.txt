@@ -1,0 +1,23 @@
+# Core Data Science
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Deep Learning (Select the one you end up using mostly)
+torch
+torchvision
+tensorflow
+keras
+
+# Image Processing
+opencv-python
+pydicom  # Essential for handling the .dcm files mentioned in proposal [cite: 675]
+pillow
+
+# Web Deployment & API 
+streamlit
+fastapi
+uvicorn
+python-multipart
