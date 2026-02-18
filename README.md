@@ -1,8 +1,8 @@
-# Assistive Brain Hemorrhage Detection for Early Diagnosis 🧠
+# AI-Assisted Brain Hemorrhage Detection for Early Diagnosis 🧠
 
 **Status:** Ongoing (Oct 2025 – June 2026)   
 **Institution:** Namal University, Mianwali
-**Supervised by:** Proff. Zulaikha Kiran and Dr. Farrukh Qureshi
+**Supervised by:** Dr. Ahmed Salim
 
 ## 📝 Abstract
 This project focuses on the development of an AI-supported detection system to identify brain hemorrhages from Non-Contrast CT (NCCT) scans and classify their subtypes. Addressing the critical shortage of radiologists in Pakistan's public hospitals, this system aims to reduce diagnosis delays and prevent data loss through a centralized local server solution.
